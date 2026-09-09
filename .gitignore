@@ -1,0 +1,27 @@
+# Secrets / credentials
+.env
+.env.*
+*.skey
+*.secret
+secrets/
+keys/
+wallets/
+
+# Wallet / recovery material
+*seed*
+*mnemonic*
+*recovery-phrase*
+*wallet-backup*
+
+# Local transaction working files
+*.txbody
+*.draft
+*.gcstx
+protocol.json
+treasury-utxos*.json
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
