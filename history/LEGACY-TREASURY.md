@@ -217,8 +217,8 @@ assets.
 This document provides the historical context and accounting explanation
 for those movements.
 
-The historical **3,000,000 SUGR revival-team allocation is not part of
-the current Community Treasury** and should not be included when
+The historical **3,000,000 SUGR revival-team allocation** is not part of
+the current Community Treasury and should not be included when
 calculating current treasury holdings.
 
 ---
