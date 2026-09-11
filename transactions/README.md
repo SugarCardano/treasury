@@ -17,7 +17,7 @@ Related transactions that form one treasury action may be grouped into one recor
 Use this structure for future records:
 
 ```markdown
-# Transaction — YYYY-MM-DD — Short Description
+# Short Description — YYYY-MM-DD
 
 **Status:** Completed and confirmed on Cardano Mainnet
 
@@ -54,6 +54,7 @@ Confirmed on Cardano Mainnet.
 ## Existing Records
 
 - [`2026-09-06-treasury-migration.md`](./2026-09-06-treasury-migration.md) — migration of 22,000,000 SUGR from the retired treasury to the current 2-of-3 treasury.
+- [`2026-09-10-11-internal-sugr-purchase.md`](./2026-09-10-11-internal-sugr-purchase.md) — related-party purchase of 9,900,000 treasury-held SUGR by Nicholas and IQ for a combined 300 USDM.
 
 ## Future Legacy Recovery
 
