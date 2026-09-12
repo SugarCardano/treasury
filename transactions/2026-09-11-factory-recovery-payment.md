@@ -98,7 +98,7 @@ That purchase and its settlement are documented in [`2026-09-10-11-internal-sugr
 - Related treasury record: [`2026-09-10-11-internal-sugr-purchase.md`](./2026-09-10-11-internal-sugr-purchase.md)
 - Hosting/server invoice or receipt: pending
 - Workaround/handover invoice or receipt: pending
-- Factory SUGR reserve handover: pending
+- Factory SUGR reserve handover: [`2026-09-11-factory-reserve-handover.md`](./2026-09-11-factory-reserve-handover.md)
 
 ## Result
 
@@ -106,7 +106,11 @@ The agreed **300 USDM** Factory recovery payment has been completed and confirme
 
 The Community Treasury retains **12,100,000 SUGR** and **6.021493 ADA** following the payment.
 
-The payment obligation is complete. Restoration of Factory access, the recovery-reserve handover and subsequent legacy-holder recovery remain operational follow-up actions.
+The payment obligation is complete. The Factory recovery workaround and reserve handover were subsequently completed.
+
+The reserve handover is documented separately in [`2026-09-11-factory-reserve-handover.md`](./2026-09-11-factory-reserve-handover.md).
+
+Legacy-holder reconciliation, settlements and payouts remain subsequent recovery activities managed by the SUGR Community Revival Team.
 
 ## Status
 
