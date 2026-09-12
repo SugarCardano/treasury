@@ -56,6 +56,7 @@ Confirmed on Cardano Mainnet.
 - [`2026-09-06-treasury-migration.md`](./2026-09-06-treasury-migration.md) — migration of 22,000,000 SUGR from the retired treasury to the current 2-of-3 treasury.
 - [`2026-09-10-11-internal-sugr-purchase.md`](./2026-09-10-11-internal-sugr-purchase.md) — related-party purchase of 9,900,000 treasury-held SUGR by Nicholas and IQ for a combined 300 USDM.
 - [`2026-09-11-factory-recovery-payment.md`](./2026-09-11-factory-recovery-payment.md) — 300 USDM payment to OrcaLabs for legacy SUGR Factory recovery and reserve handover, including the supporting 5 ADA operational treasury contribution.
+- [`2026-09-11-factory-reserve-handover.md`](./2026-09-11-factory-reserve-handover.md) — recovery and handover of 46,643,937 SUGR from the retired legacy Factory to the 2-of-3 Community Treasury for legacy-holder recovery.
 
 ## Future Legacy Recovery
 
